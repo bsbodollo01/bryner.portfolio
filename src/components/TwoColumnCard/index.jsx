@@ -33,11 +33,11 @@ const TwoColumnCard = () => {
             target="_blank"
             className="hover:underline"
           >
-            Hububble
+            Brooky Technologies
           </a>
           <span className="mt-4 text-xs flex items-center justify-start uppercase text-neutral-600 dark:text-neutral-300">
             <CalendarIcon className="h-4 mr-2 text-neutral-600 dark:text-neutral-300" />
-            MAY, 2021 - PRESENT
+            July, 2021 - PRESENT
           </span>
           <span className="mt-2 text-xs flex items-center justify-start uppercase text-neutral-600 dark:text-neutral-300">
             <BriefcaseIcon className="h-4 mr-2 text-neutral-600 dark:text-neutral-300" />
@@ -64,7 +64,7 @@ const TwoColumnCard = () => {
             Tailwind.
           </li>
           <li>Creating responsive web applications.</li>
-          <li>Developed CMS Websites through HubSpot CMS</li>
+          <li>Developed Online startup Real-estate transaction web system </li>
           <li>
             Responsible on maintaining and fixing bugs on current websites
           </li>
@@ -94,15 +94,15 @@ const TwoColumnCard = () => {
             target="_blank"
             className="hover:underline"
           >
-            Upwork
+            Dict Region 10
           </a>
           <span className="mt-4 text-xs flex items-center justify-start uppercase text-neutral-600 dark:text-neutral-300">
             <CalendarIcon className=" text-neutral-600 h-4 mr-2 dark:text-neutral-300" />
-            OCTOBER, 2021 - PRESENT
+            January, 2021 - March 2022
           </span>
           <span className="mt-2 text-xs flex items-center justify-start uppercase text-neutral-600 dark:text-neutral-300">
             <BriefcaseIcon className="text-neutral-600 h-4 mr-2 dark:text-neutral-300" />
-            FREELANCE FRONT-END ENGINEER
+            Intern | FULL-STACK ENGINEER
           </span>
         </h6>
         <div className="relative mb-4">
@@ -119,11 +119,14 @@ const TwoColumnCard = () => {
           </div>
         </div>
         <ul className="text-base text-primary-400 list-inside list-disc dark:text-neutral-200">
-          <li>Implementing CMS websites from scratch using HubSpot CMS</li>
+          <li>
+            Implemented Online-based accounting management system for the
+            process of purchasing goods/services
+          </li>
           <li>Helped clients with simple bug fixes</li>
           <li>
-            Received top rated badge after working with 6 clients within 4
-            months!
+            Received certification stating the completion of cybersecurity
+            training program and robotics creating bootcamp!
           </li>
         </ul>
       </motion.div>

@@ -6,12 +6,12 @@ const socials = [
   {
     logo: images.linkedinIcon,
     alt: "Linkedin Icon",
-    link: "https://www.linkedin.com/in/felixmacaspac/",
+    link: "https://www.linkedin.com/in/justbryner",
   },
   {
     logo: images.githubIcon,
     alt: "Github Icon",
-    link: "https://github.com/felixmacaspac",
+    link: "https://github.com/bsbodollo01",
   },
 ];
 
@@ -28,7 +28,7 @@ const HeroSection = () => {
               transition={{ type: "linear", duration: 0.5 }}
               className="hero__heading"
             >
-              Felix M.
+              Bryner B.
             </motion.h1>
           </div>
         </div>

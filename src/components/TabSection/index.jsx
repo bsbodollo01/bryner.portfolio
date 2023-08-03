@@ -34,10 +34,6 @@ const logos = [
     title: "NextJS",
   },
   {
-    image: images.hubspotLogo,
-    title: "HubSpot",
-  },
-  {
     image: images.tailwindLogo,
     title: "Tailwind",
   },
@@ -73,22 +69,22 @@ const TabSection = () => {
             className="w-full text-primary md:w-1/2 dark:text-white"
           >
             <h2 className="text-2xl font-semibold mb-2">
-              HubSpot CMS Developer | Frontend Developer
+              React / Next web Developer | Frontend Developer
             </h2>
             <p className="text-base font-normal text-neutral-700 dark:text-neutral-300">
-              As a self-taught front-end engineer with nearly two years of
-              experience and an incoming freshman at the National University of
-              the Philippines pursuing a Bachelor of Science in Computer Science
-              with a specialization in machine learning (BSCS-ML), I am very
-              excited about new web development technologies.
+              As a self-taught front-end engineer with nearly a years of
+              experience and a graduate student from University of Science and
+              Technologies of Southern Philippines pursued a Bachelor of Science
+              in Information Technology, I am very excited about new web
+              development technologies.
             </p>
             <br />
             <p className="text-base font-normal text-neutral-700 dark:text-neutral-300">
-              I'm also a Certified HubSpot CMS Developer who works on HubSpot
-              CMS-related projects with HubL, HTML, CSS, and JavaScript. I've
-              also had a lot of fun working on some fantastic projects that make
-              use of React, Nextjs, and Tailwind. In the future, I hope to learn
-              typescript.
+              I'm also a Certified IOT passer Developer who specializes on
+              automation and artificial intelligence for digital transformation.
+              I've also worked with DICT region 10 as a full-stack web developer
+              that make use of laravel, Bootsrap, and Mysql. In the future, I
+              hope to learn machine learning.
             </p>
             <br />
             <h3 className="font-semibold text-xl mb-2">Certifications 📝:</h3>
@@ -143,7 +139,7 @@ const TabSection = () => {
               <div className="absolute top-0 rounded-lg left-0 z-50 bg-primary-400 animate-pulse w-full md:h-[450px]" />
             )}
             <img
-              src={images.felixImage}
+              src={images.brynerImage}
               className="h-full w-full z-10 object-cover object-top rounded-lg filter shadow-lg"
               alt="Image Felix"
               loading="lazy"
