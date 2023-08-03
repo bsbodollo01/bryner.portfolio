@@ -15,7 +15,7 @@ import bootstrapLogo from "../assets/logo/bootstrap-logo.svg";
 import reduxLogo from "../assets/logo/redux-logo.svg";
 import laravelLogo from "../assets/logo/laravel-logo.svg";
 import mysqlLogo from "../assets/logo/mysql-logo.svg";
-import brynerImage from "../assets/bryner.jpg";
+import brynerImage from "../assets/Bryner.jpg";
 import brookyImage from "../assets/projects/brooky-portal.png";
 import dazleImage from "../assets/projects/dazle-portal.png";
 import dimtsImage from "../assets/projects/dimts-portal.png";
