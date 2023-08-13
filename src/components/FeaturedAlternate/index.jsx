@@ -10,7 +10,7 @@ const projects = [
         image: images.brookyImage,
         heading: "Brooky Portal",
         description:
-            "<Also>One of my first project in real estate.<p/> <br/> <p>I've learned a lot while working on this project <i>independently.</i> Also improved my skills with the ReactJS, NextJS, Redux and tailwind CSS</p>",
+            "<Also>One of my first project in real estate.<p/> <br/> <p>I've learned a lot while working on this project <i>independently.</i> This project improved my skills with ReactJS, NextJS, Redux and tailwind CSS</p>",
         websiteLink: "https://portal.weecomm.brooky.io/",
         html: true,
         css: true,
@@ -26,7 +26,7 @@ const projects = [
         image: images.dazleImage,
         heading: "Dazle",
         description:
-            "This is my first team project launched in the philippines! <br/> <br/> Working with this one was enjoyable, and challenging also cause of the new framework used which is svelte and sveltekit.",
+            "This is my first team project launched in the philippines! <br/> <br/> Working with this one are both enjoyable, and challenging cause of the new framework used which is svelte and sveltekit.",
         websiteLink: "https://app.dazle.co/login",
         html: true,
         css: true,
@@ -56,7 +56,7 @@ const projects = [
         image: images.myemedImage,
         heading: "MyeMed Global",
         description:
-            "<p>This is my project thesis back when I was college! working on this project really tested my laravel skill and the first time I tried using bootstrap css. Both challenging and fun project. </p>",
+            "<p>This is our thesis project back when I was college! working on this project really tested my laravel skill and the first time I tried using bootstrap css. Both challenging and fun project. </p>",
         githubLink: "https://github.com/bsbodollo01/MyemedGlobal",
         html: true,
         css: true,

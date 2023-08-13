@@ -37,7 +37,7 @@ const TwoColumnCard = () => {
                     </a>
                     <span className="mt-4 text-xs flex items-center justify-start uppercase text-neutral-600 dark:text-neutral-300">
                         <CalendarIcon className="h-4 mr-2 text-neutral-600 dark:text-neutral-300" />
-                        July, 2021 - PRESENT
+                        June 2022 - December 2023
                     </span>
                     <span className="mt-2 text-xs flex items-center justify-start uppercase text-neutral-600 dark:text-neutral-300">
                         <BriefcaseIcon className="h-4 mr-2 text-neutral-600 dark:text-neutral-300" />
@@ -112,7 +112,7 @@ const TwoColumnCard = () => {
                     </a>
                     <span className="mt-4 text-xs flex items-center justify-start uppercase text-neutral-600 dark:text-neutral-300">
                         <CalendarIcon className=" text-neutral-600 h-4 mr-2 dark:text-neutral-300" />
-                        January, 2022 - March 2022
+                        January 2022 - March 2022
                     </span>
                     <span className="mt-2 text-xs flex items-center justify-start uppercase text-neutral-600 dark:text-neutral-300">
                         <BriefcaseIcon className="text-neutral-600 h-4 mr-2 dark:text-neutral-300" />
