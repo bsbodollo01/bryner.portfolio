@@ -10,7 +10,7 @@ const projects = [
         image: images.brookyImage,
         heading: "Brooky Portal",
         description:
-            "<Also>One of my first project in real estate.<p/> <br/> <p>I've learned a lot while working on this project <i>independently.</i> This project improved my skills with ReactJS, NextJS, Redux and tailwind CSS</p>",
+            "<Also>One of my first project in real estate.<p/> <br/> <p>I have significantly learned the architecture of clean coding while working on this project <i>independently.</i> This project enhance my skills with ReactJS, NextJS, Redux and tailwind CSS.</p>",
         websiteLink: "https://portal.weecomm.brooky.io/",
         html: true,
         css: true,
@@ -26,7 +26,7 @@ const projects = [
         image: images.dazleImage,
         heading: "Dazle",
         description:
-            "This is my first team project launched in the philippines! <br/> <br/> Working with this one are both enjoyable, and challenging cause of the new framework used which is svelte and sveltekit.",
+            "This is my first team project launched in the Philippines! <br/> <br/> Working with dazle project are both gratifying, and challenging cause of the new framework used which are svelte and sveltekit.",
         websiteLink: "https://app.dazle.co/login",
         html: true,
         css: true,
@@ -40,7 +40,7 @@ const projects = [
         image: images.dimtsImage,
         heading: "DIMTS",
         description:
-            "<p>Began working on this project in 2022. This project showcases my skills in using django and next JS with group of developer.</p> <br/> <p>This project helps me implement more utilized code and proper reusing of components. </p>",
+            "<p>We began working on this project in 2022. This project showcases my skills in using Django and Next JS with a group of developers.</p> <br/> <p>This project helped me implement more utilized code and proper reusing of components. </p>",
         websiteLink: "https://dimts.vercel.app/",
         githubLink: "https://github.com/hustlas90s/dimts_frontend",
         html: true,
@@ -56,7 +56,7 @@ const projects = [
         image: images.myemedImage,
         heading: "MyeMed Global",
         description:
-            "<p>This is our thesis project back when I was college! working on this project really tested my laravel skill and the first time I tried using bootstrap css. Both challenging and fun project. </p>",
+            "<p>This is our thesis project back when I was in college! Working on this project really tested my laravel skill because it is the first time I've tried using bootstrap css. This is a both challenging and fun project. </p>",
         githubLink: "https://github.com/bsbodollo01/MyemedGlobal",
         html: true,
         css: true,
@@ -69,7 +69,7 @@ const projects = [
         image: images.dictImage,
         heading: "DICT - WEB-BASED ACCOUNTING MANAGEMENT SYSTEM",
         description:
-            "<p>We and my dev team made this project way back my internship. Had to be more scheduled and agile on this because the system will be used by the department for nationwide accounting management system</p>",
+            "<p>Me and my developer team made this project way back my internship. We had to be more scheduled and agile while working on this project because the system will be used by the department for nationwide accounting management system.</p>",
         githubLink: "https://github.com/bsbodollo01/dict_ams",
         html: true,
         css: true,

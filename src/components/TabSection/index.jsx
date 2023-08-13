@@ -86,24 +86,25 @@ const TabSection = () => {
                         className="w-full text-primary md:w-1/2 dark:text-white"
                     >
                         <h2 className="text-2xl font-semibold mb-2">
-                            React / Next web Developer | Frontend Developer
+                            React / Next Web Developer | Front-End Developer
                         </h2>
                         <p className="text-base font-normal text-neutral-700 dark:text-neutral-300">
-                            As a self-taught front-end engineer with nearly a
-                            years of experience and a graduate student from
-                            University of Science and Technologies of Southern
-                            Philippines pursued a Bachelor of Science in
-                            Information Technology, I am very excited about new
-                            web development technologies.
+                            As a graduate student from the University of Science
+                            and Technologies of Southern Philippines, pursued a
+                            Bachelor's degree in Information Technology, with a
+                            year of experience as a software engineer. I am
+                            thrilled to learn about new web development
+                            technologies.
                         </p>
                         <br />
                         <p className="text-base font-normal text-neutral-700 dark:text-neutral-300">
-                            I'm also a Certified IOT passer Developer who
+                            I am a Certified IOT passer Developer who
                             specializes on automation and artificial
                             intelligence for digital transformation. I've also
-                            worked with DICT region 10 as a full-stack web
-                            developer that make use of laravel, Bootsrap, and
-                            Mysql. In the future, I hope to learn machine
+                            proactively worked with DICT region 10 as a
+                            full-stack web developer that uses laravel,
+                            Bootsrap, and Mysql as a programming language. In
+                            the future, I hope to learn more about machine
                             learning.
                         </p>
                         <br />
