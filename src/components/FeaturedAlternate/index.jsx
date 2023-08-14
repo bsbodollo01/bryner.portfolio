@@ -10,7 +10,7 @@ const projects = [
         image: images.brookyImage,
         heading: "Brooky Portal",
         description:
-            "<Also>One of my first project in real estate.<p/> <br/> <p>I have significantly learned the architecture of clean coding while working on this project <i>independently.</i> This project enhance my skills with ReactJS, NextJS, Redux and tailwind CSS.</p>",
+            "<Also>My first project in real estate.<p/> <br/> <p>I have significantly learned the architecture of clean coding while working on this project <i>independently.</i> This project enhance my skills with ReactJS, NextJS, Redux and tailwind CSS.</p>",
         websiteLink: "https://portal.weecomm.brooky.io/",
         html: true,
         css: true,
@@ -26,7 +26,7 @@ const projects = [
         image: images.dazleImage,
         heading: "Dazle",
         description:
-            "This is my first team project launched in the Philippines! <br/> <br/> Working with dazle project are both gratifying, and challenging cause of the new framework used which are svelte and sveltekit.",
+            "This is my first team project launched in the Philippines! <br/> <br/> Working with Dazle project are both gratifying, and challenging because of the new framework used which are svelte and sveltekit.",
         websiteLink: "https://app.dazle.co/login",
         html: true,
         css: true,
