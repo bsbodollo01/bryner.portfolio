@@ -37,6 +37,20 @@ const projects = [
     },
     {
         id: 3,
+        image: images.dwelluImage,
+        heading: "Dwellu",
+        description:
+            "This is my first team project launched in the Philippines! <br/> <br/> Working with Dazle project are both gratifying, and challenging because of the new framework used which are svelte and sveltekit.",
+        websiteLink: "https://dwellu.io",
+        html: true,
+        css: true,
+        javascript: true,
+        github: true,
+        tailwind: true,
+        svelte: true,
+    },
+    {
+        id: 4,
         image: images.dimtsImage,
         heading: "DIMTS",
         description:
@@ -52,7 +66,7 @@ const projects = [
         redux: true,
     },
     {
-        id: 4,
+        id: 5,
         image: images.myemedImage,
         heading: "MyeMed Global",
         description:
@@ -65,7 +79,7 @@ const projects = [
         bootstrap: true,
     },
     {
-        id: 5,
+        id: 6,
         image: images.dictImage,
         heading: "DICT - WEB-BASED ACCOUNTING MANAGEMENT SYSTEM",
         description:

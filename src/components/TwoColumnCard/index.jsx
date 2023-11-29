@@ -37,12 +37,12 @@ const TwoColumnCard = () => {
                     </a>
                     <span className="mt-4 text-xs flex items-center justify-start uppercase text-neutral-600 dark:text-neutral-300">
                         <CalendarIcon className="h-4 mr-2 text-neutral-600 dark:text-neutral-300" />
-                        June 2022 - December 2023
+                        June 2021 - September 2023
                     </span>
                     <span className="mt-2 text-xs flex items-center justify-start uppercase text-neutral-600 dark:text-neutral-300">
                         <BriefcaseIcon className="h-4 mr-2 text-neutral-600 dark:text-neutral-300" />
-                        JUNIOR FRONT-END ENGINEER
-                    </span>
+                        Full-stack Software Engineer
+                   </span>
                 </h6>
                 <div className="relative mb-4">
                     <div
