@@ -18,12 +18,12 @@ const logos = [
         title: "JavaScript",
     },
     {
-        image: images.gitLogo,
-        title: "Git",
+        image: images.typescriptLogo,
+        title: "TypeScript",
     },
     {
-        image: images.githubLogo,
-        title: "Github",
+        image: images.gitLogo,
+        title: "Git",
     },
     {
         image: images.reactLogo,
@@ -32,14 +32,6 @@ const logos = [
     {
         image: images.nextLogo,
         title: "NextJS",
-    },
-    {
-        image: images.tailwindLogo,
-        title: "Tailwind",
-    },
-    {
-        image: images.bootstrapLogo,
-        title: "Bootstrap",
     },
     {
         image: images.svelteLogo,
@@ -53,6 +45,14 @@ const logos = [
         image: images.reduxLogo,
         title: "Redux",
     },
+    {
+        image: images.expressjsLogo,
+        title: "ExpressJS",
+    },
+    {
+        image: images.vueLogo,
+        title: "VueJS",
+    }
 ];
 
 const TabSection = () => {

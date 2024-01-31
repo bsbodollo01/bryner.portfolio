@@ -5,6 +5,7 @@ import linkedinIcon from "../assets/linkedin.svg";
 import htmlLogo from "../assets/logo/html-logo.svg";
 import cssLogo from "../assets/logo/css-logo.svg";
 import javascriptLogo from "../assets/logo/javascript-logo.svg";
+import typescriptLogo from "../assets/logo/typescript-logo.svg";
 import reactLogo from "../assets/logo/react-logo.svg";
 import tailwindLogo from "../assets/logo/tailwind-logo.svg";
 import gitLogo from "../assets/logo/git-logo.svg";
@@ -15,6 +16,8 @@ import bootstrapLogo from "../assets/logo/bootstrap-logo.svg";
 import reduxLogo from "../assets/logo/redux-logo.svg";
 import laravelLogo from "../assets/logo/laravel-logo.svg";
 import mysqlLogo from "../assets/logo/mysql-logo.svg";
+import expressjsLogo from "../assets/logo/expressjs-logo.svg";
+import vueLogo from "../assets/logo/vue-logo.svg";
 import brynerImage from "../assets/Bryner.jpg";
 import brookyImage from "../assets/projects/brooky-portal.png";
 import dazleImage from "../assets/projects/dazle-portal.png";
@@ -35,6 +38,7 @@ export default {
     htmlLogo,
     cssLogo,
     javascriptLogo,
+    typescriptLogo,
     reactLogo,
     tailwindLogo,
     gitLogo,
@@ -45,6 +49,8 @@ export default {
     reduxLogo,
     laravelLogo,
     mysqlLogo,
+    expressjsLogo,
+    vueLogo,
     brynerImage,
     brookyImage,
     dazleImage,
