@@ -29,19 +29,19 @@ const TwoColumnCard = () => {
             >
                 <h6 className="text-2xl font-bold text-primary mb-4 dark:text-white">
                     <a
-                        href="https://www.hububble.co/"
+                        href="https://brooky.io/"
                         target="_blank"
                         className="hover:underline"
                     >
-                        Brooky Technologies
+                        Ves Artex
                     </a>
                     <span className="mt-4 text-xs flex items-center justify-start uppercase text-neutral-600 dark:text-neutral-300">
                         <CalendarIcon className="h-4 mr-2 text-neutral-600 dark:text-neutral-300" />
-                        June 2021 - September 2023
+                        April 2024 - Present
                     </span>
                     <span className="mt-2 text-xs flex items-center justify-start uppercase text-neutral-600 dark:text-neutral-300">
                         <BriefcaseIcon className="h-4 mr-2 text-neutral-600 dark:text-neutral-300" />
-                        Full-stack Software Engineer
+                        Software Development Engineer 3
                    </span>
                 </h6>
                 <div className="relative mb-4">
@@ -60,26 +60,20 @@ const TwoColumnCard = () => {
 
                 <ul className="text-base text-primary-400 list-inside list-disc dark:text-neutral-200">
                     <li>
-                        Partnered with DOST in developing a real estate
-                        management system that helped realtor to manage their
-                        agent transactions and property listing limited only in
-                        the Philippines.
+                        Maintained the Powering Intelligent Barn Systems in able to optimizes animal
+                        well-being and drives operational efficiency for farms around the world.
                     </li>
                     <li>
-                        Integrated a chatbot within a real estate management
-                        system website, enhancing user engagement and improving
-                        customer support.
+                        Tracked any barn motor anomalies that shows not working on the system.
                     </li>
                     <li>
-                        Successfully launched three nationwide real estate
-                        system projects within a year, showcasing strong project
-                        management skills and ability to meet deadlines.{" "}
+                        Designed reliable system solutions, leveraging technology and innovation to
+                        create a connected dairy all while improving the user experience with our digital
+                        business tools.
                     </li>
                     <li>
-                        Designed and Implemented user interfaces using ReactJS,
-                        NextJS, and Svelte to create visually appealing and
-                        interactive web applications for a real estate
-                        management system.
+                        Support the management and organization of website content, including
+                        updating and publishing new information, ensuring accuracy and timeliness.
                     </li>
                 </ul>
             </motion.div>
@@ -103,20 +97,19 @@ const TwoColumnCard = () => {
             >
                 <h6 className="text-2xl font-bold text-primary mb-4 dark:text-white">
                     <a
-                        href="https://www.upwork.com/freelancers/~013e0372898b53a69e"
+                        href="https://brooky.io/"
                         target="_blank"
                         className="hover:underline"
                     >
-                        Department of Information and Communications Technology
-                        - Region 10
+                        Brooky Technologies
                     </a>
                     <span className="mt-4 text-xs flex items-center justify-start uppercase text-neutral-600 dark:text-neutral-300">
                         <CalendarIcon className=" text-neutral-600 h-4 mr-2 dark:text-neutral-300" />
-                        January 2022 - March 2022
+                        June 2021 - April 2024
                     </span>
                     <span className="mt-2 text-xs flex items-center justify-start uppercase text-neutral-600 dark:text-neutral-300">
                         <BriefcaseIcon className="text-neutral-600 h-4 mr-2 dark:text-neutral-300" />
-                        Intern | FULL-STACK ENGINEER
+                        Full-stack Software Engineer
                     </span>
                 </h6>
                 <div className="relative mb-4">
@@ -134,17 +127,26 @@ const TwoColumnCard = () => {
                 </div>
                 <ul className="text-base text-primary-400 list-inside list-disc dark:text-neutral-200">
                     <li>
-                        Developed a computerized web-based accounting management
-                        system for the process of purchasing goods/services.
+                        Partnered with DOST in developing a real estate
+                        management system that helped realtor to manage their
+                        agent transactions and property listing limited only in
+                        the Philippines.
                     </li>
                     <li>
-                        Assembled a moving robot using raspberry PI which can
-                        able to avoid slab, followed a certain track, and emit
-                        sound upon collision with a structure.
+                        Integrated a chatbot within a real estate management
+                        system website, enhancing user engagement and improving
+                        customer support.
                     </li>
                     <li>
-                        Constructed an interior design for the upcoming
-                        renovation of DOST office using Coohom software.
+                        Successfully launched three nationwide real estate
+                        system projects within a year, showcasing strong project
+                        management skills and ability to meet deadlines.{" "}
+                    </li>
+                    <li>
+                        Designed and Implemented user interfaces using ReactJS,
+                        NextJS, and Svelte to create visually appealing and
+                        interactive web applications for a real estate
+                        management system.
                     </li>
                 </ul>
             </motion.div>
