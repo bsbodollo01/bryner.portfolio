@@ -25,6 +25,7 @@ import dimtsImage from "../assets/projects/dimts-portal.png";
 import myemedImage from "../assets/projects/myemed-portal.png";
 import dictImage from "../assets/projects/dict-portal.png";
 import dwelluImage from "../assets/projects/dwellu-portal.png";
+import playHeartsImage from "../assets/projects/play-hearts-portal.png";
 import errorIllustration from "../assets/illustrations/404-vector.svg";
 import successIllustration from "../assets/illustrations/success-vector.svg";
 import brandLogoLight from "../assets/icons/logo-lighter.png";
@@ -58,6 +59,7 @@ export default {
     myemedImage,
     dictImage,
     dwelluImage,
+    playHeartsImage,
     errorIllustration,
     successIllustration,
     brandLogoLight,

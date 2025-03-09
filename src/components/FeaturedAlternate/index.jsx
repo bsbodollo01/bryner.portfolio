@@ -91,6 +91,21 @@ const projects = [
         laravel: true,
         bootstrap: true,
     },
+    {
+        id: 7,
+        image: images.playHeartsImage,
+        heading: "Play Hearts - A OCCUPATIONAL THERAPIST CONSULTATION SYSTEM",
+        description:
+            "<p>I built an Occupational Therapist Consultation System to simplify appointment scheduling and patient management. It featured real-time booking, automated reminders, and a secure patient portal for tracking consultations. Using React, TailwindCSS, and Framer-motion, I focused on usability, security, and performance to create a seamless experience for both therapists and patients.</p>",
+        githubLink: "https://github.com/bsbodollo01/OT-next-app",
+        websiteLink: "https://play-hearts.vercel.app/",
+        html: true,
+        css: true,
+        javascript: true,
+        next: true,
+        tailwind: true,
+        github: true,
+    },
 ];
 
 const CardGrid = () => {
