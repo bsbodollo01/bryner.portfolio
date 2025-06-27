@@ -3,6 +3,7 @@ import images from "../../constants/image";
 import { GlobeAltIcon } from "@heroicons/react/outline";
 import RichText from "../RichText";
 import { motion } from "framer-motion";
+import next from "next";
 
 const projects = [
     {
@@ -10,7 +11,7 @@ const projects = [
         image: images.brookyImage,
         heading: "Brooky Portal",
         description:
-            "<Also>My first project in real estate.<p/> <br/> <p>I have significantly learned the architecture of clean coding while working on this project <i>independently.</i> This project enhance my skills with ReactJS, NextJS, Redux and tailwind CSS.</p>",
+            "<Also>My first project in real estate.<p/> <br/> <p>I have significantly learned the clean coding architecture while working on this project <i>independently.</i> This project enhance my skills and knowledge working on the real estate field.</p>",
         websiteLink: "https://portal.weecomm.brooky.io/",
         html: true,
         css: true,
@@ -26,7 +27,7 @@ const projects = [
         image: images.dazleImage,
         heading: "Dazle",
         description:
-            "This is my first team project launched in the Philippines! <br/> <br/> Working with Dazle project are both gratifying, and challenging because of the new framework used which are svelte and sveltekit.",
+            "This project is all about helping the realtors to manage their listings! <br/> <br/> Dazle is a comprehensive platform designed to streamline property listings, client management, and transaction tracking for agents and buyers alike.",
         websiteLink: "https://app.dazle.co/login",
         html: true,
         css: true,
@@ -37,17 +38,17 @@ const projects = [
     },
     {
         id: 3,
-        image: images.dwelluImage,
-        heading: "Dwellu",
+        image: images.motoMartImage,
+        heading: "MotoMart",
         description:
-            "This is my first team project launched in the Philippines! <br/> <br/> Working with Dazle project are both gratifying, and challenging because of the new framework used which are svelte and sveltekit.",
-        websiteLink: "https://dwellu.io",
+            "Motomart is a online ordering system offers a fast and convenient way for customers to browse, select, and purchase a wide range of automotive components. With real-time inventory updates and secure checkout, it simplifies the ordering process for both vehicle owners and repair professionals.",
+        githubLink: "https://github.com/bsbodollo01/motomart",
         html: true,
         css: true,
         javascript: true,
         github: true,
         tailwind: true,
-        svelte: true,
+        next: true,
     },
     {
         id: 4,
@@ -67,16 +68,18 @@ const projects = [
     },
     {
         id: 5,
-        image: images.myemedImage,
-        heading: "MyeMed Global",
+        image: images.playHeartsImage,
+        heading: "Play Hearts - A OCCUPATIONAL THERAPIST CONSULTATION SYSTEM",
         description:
-            "<p>This is our thesis project back when I was in college! Working on this project really tested my laravel skill because it is the first time I've tried using bootstrap css. This is a both challenging and fun project. </p>",
-        githubLink: "https://github.com/bsbodollo01/MyemedGlobal",
+            "<p>I built an Occupational Therapist Consultation System to simplify appointment scheduling and patient management. It featured real-time booking, automated reminders, and a secure patient portal for tracking consultations. Using React, TailwindCSS, and Framer-motion, I focused on usability, security, and performance to create a seamless experience for both therapists and patients.</p>",
+        githubLink: "https://github.com/bsbodollo01/OT-next-app",
+        websiteLink: "https://play-hearts.vercel.app/",
         html: true,
         css: true,
         javascript: true,
-        laravel: true,
-        bootstrap: true,
+        next: true,
+        tailwind: true,
+        github: true,
     },
     {
         id: 6,
@@ -90,21 +93,6 @@ const projects = [
         javascript: true,
         laravel: true,
         bootstrap: true,
-    },
-    {
-        id: 7,
-        image: images.playHeartsImage,
-        heading: "Play Hearts - A OCCUPATIONAL THERAPIST CONSULTATION SYSTEM",
-        description:
-            "<p>I built an Occupational Therapist Consultation System to simplify appointment scheduling and patient management. It featured real-time booking, automated reminders, and a secure patient portal for tracking consultations. Using React, TailwindCSS, and Framer-motion, I focused on usability, security, and performance to create a seamless experience for both therapists and patients.</p>",
-        githubLink: "https://github.com/bsbodollo01/OT-next-app",
-        websiteLink: "https://play-hearts.vercel.app/",
-        html: true,
-        css: true,
-        javascript: true,
-        next: true,
-        tailwind: true,
-        github: true,
     },
 ];
 

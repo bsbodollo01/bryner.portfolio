@@ -21,10 +21,9 @@ import vueLogo from "../assets/logo/vue-logo.svg";
 import brynerImage from "../assets/Bryner.jpg";
 import brookyImage from "../assets/projects/brooky-portal.png";
 import dazleImage from "../assets/projects/dazle-portal.png";
+import motoMartImage from "../assets/projects/motomart-portal.png";
 import dimtsImage from "../assets/projects/dimts-portal.png";
-import myemedImage from "../assets/projects/myemed-portal.png";
 import dictImage from "../assets/projects/dict-portal.png";
-import dwelluImage from "../assets/projects/dwellu-portal.png";
 import playHeartsImage from "../assets/projects/play-hearts-portal.png";
 import errorIllustration from "../assets/illustrations/404-vector.svg";
 import successIllustration from "../assets/illustrations/success-vector.svg";
@@ -55,10 +54,9 @@ export default {
     brynerImage,
     brookyImage,
     dazleImage,
+    motoMartImage,
     dimtsImage,
-    myemedImage,
     dictImage,
-    dwelluImage,
     playHeartsImage,
     errorIllustration,
     successIllustration,
