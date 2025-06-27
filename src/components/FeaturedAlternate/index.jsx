@@ -3,7 +3,6 @@ import images from "../../constants/image";
 import { GlobeAltIcon } from "@heroicons/react/outline";
 import RichText from "../RichText";
 import { motion } from "framer-motion";
-import next from "next";
 
 const projects = [
     {
